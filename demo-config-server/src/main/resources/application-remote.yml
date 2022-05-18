@@ -7,7 +7,7 @@ spring:
     config:
       server:
         get:
-          uri: https://github.com/buexy123/javaxm
+          uri: https://github.com/buexy123/javaxm.git
           search-paths: /demo-config-server/src/main/resources/
           username: buexy123
           password: 100501XMxm
