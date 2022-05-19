@@ -9,5 +9,10 @@
       "name": "eureka.client.service-url.defaultZone",
       "type": "java.lang.String",
       "description": "Description for eureka.client.service-url.defaultZone."
+    },
+    {
+      "name": "spring.cloud.config.server.get.uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.server.get.uri."
     }
   ] }
