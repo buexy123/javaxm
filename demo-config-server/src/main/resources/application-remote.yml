@@ -6,13 +6,8 @@ spring:
   cloud:
     config:
       server:
-#        get:
-#          uri: https://github.com/buexy123/javaxm.git
-#          search-paths: /demo-config-server/src/main/resources/
-#          username: buexy123
-#          password: 100501XMxm
-        git:
+        get:
           uri: https://github.com/buexy123/javaxm.git
-          search-paths: /demo-config-server/src/main/resources/
+          search-paths: /demo-config-server/src/main/resources
           username: buexy123
           password: 100501XMxm

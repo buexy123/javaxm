@@ -9,4 +9,4 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http:/server1:7000/eureka/,http://server2:7001/eureka/
+      defaultZone: http://server1:7000/eureka/,http://server2:7001/eureka/
